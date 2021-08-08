@@ -1,0 +1,2 @@
+Best mutant is : QYHERTHTGEKPYECHQCGHAFKHCSLLQRH
+The offset is :4, and the score is : 27 

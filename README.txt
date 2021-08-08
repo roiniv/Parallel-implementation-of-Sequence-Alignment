@@ -1,6 +1,3 @@
-Student 1: Roi Niv ID: 308393255.
+By giving two sequences, this program returns the best mutant, given from the second sequence, which returns the best alignment score.
 
-
-Requirements implemented in the project:
-cuda+openMp+MPI
-and managing Mutant Sequences with more than one sign differ from Seq2 
+Written in Linux, used MPI, GPU (Cuda), and OpenMP
